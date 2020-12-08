@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Eran Bar Am <twitter>
+     Eran Bar Am
+     eran@gmail.com
+     SuperMan
 
 # THANKS
 
