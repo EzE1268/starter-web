@@ -4,7 +4,6 @@
 # TEAM
 
      Eran Bar Am
-     eran@gmail.com
      SuperMan
 
 # THANKS
@@ -15,3 +14,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java
