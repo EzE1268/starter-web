@@ -1,7 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I am modifinig the file before rebase
+
+Hi going to insert conflicts in my feature branch
+
 # TEAM
 
      Eran Bar Am
