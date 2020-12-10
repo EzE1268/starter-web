@@ -6,6 +6,8 @@ Hi, I am modifinig the file before rebase
 
      Eran Bar Am
      SuperMan
+     DevOps engineer Level III
+     IT Organization
 
 # THANKS
 
