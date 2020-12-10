@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## GIT & GITHub Training
 This is one of the best Training course for DevOps
-Adding Rebase Lectures in GIT Advanced part.
+Adding Rebase Lectures in GIT Advanced part. we have done so much work togerther
 
 ## GIT Comparison
 Adding GIT Comparison Lecture
