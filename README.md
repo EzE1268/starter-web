@@ -4,8 +4,9 @@ This is GIT project, wich we are using as sample project
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
-Sample website with plenty of files for demos
+## Introduction
+A lot of lectures are are already submmited.
+And a lot of lectures are still coming on.
 
 ## GIT & GITHub Training
 This is one of the best Training course for DevOps
