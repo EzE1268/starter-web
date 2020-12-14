@@ -14,6 +14,7 @@ Adding Rebase Lectures in GIT Advanced part. we have done so much work togerther
 
 ## GIT Comparison
 Adding GIT Comparison Lecture
+Adding new Lectures for Stash
 
 ## Contribution
 Fork the Repo and raise pull request for review
